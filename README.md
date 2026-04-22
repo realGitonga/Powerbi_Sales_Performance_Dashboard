@@ -1,13 +1,13 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an **end-to-end Sales Performance Dashboard** developed in **Power BI**, covering the full analytics lifecycle: data integration, cleaning, modeling, DAX measure creation, and interactive dashboard design.
 
 The dashboard enables stakeholders to monitor sales trends, profitability, customer performance, and regional insights through a clean, professional, and interactive interface.
 
 ---
 
-## 🗂 Project Tasks & Implementation
+##  Project Tasks & Implementation
 
 ### **Part 1: Data Preparation & Feature Engineering**
 
@@ -90,26 +90,26 @@ The dashboard enables stakeholders to monitor sales trends, profitability, custo
 
 ---
 
-## 🖼 Dashboard Preview
+##  Dashboard Preview
 ![Dashboard Preview](dashboard_preview.PNG)
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the `.pbix` file from the `powerbi/` folder
 2. Open it in **Power BI Desktop**
 3. Use slicers and visuals to explore insights interactively
 
 ---
 
-## 📈 Key Outcome
+## Key Outcome
 A **business-ready, interactive Power BI dashboard** demonstrating strong capabilities in:
 - Data integration & cleaning
 - Data modeling
 - DAX and time intelligence
 - Dashboard design and storytelling
 
-## 👤 Author and Contributors
+## Author and Contributors
 **Mathew Chalo** 
 
 **Lawrence Gitonga**
