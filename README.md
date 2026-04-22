@@ -82,7 +82,7 @@ The dashboard enables stakeholders to monitor sales trends, profitability, custo
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Power BI Desktop**
 - **Power Query** (ETL & data cleaning)
 - **DAX** (measures & time intelligence)
